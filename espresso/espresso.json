@@ -13,7 +13,7 @@
           "name": "espresso",
           "architecture": "esp32",
           "version": "1.0.0",
-          "category": "ESP32",
+          "category": "espresso",
           "url": "https://github.com/SharvaParalkar/Espresso/releases/download/espresso/espresso.zip",
           "archiveFileName": "espresso.zip",
           "checksum": "SHA-256:4efbde756daaa989c1d6b445d3d3be3109f8e0079610c8040ede452f9ddae50b7fc0ec381fa727c51d3912ea129110b4c5f6534cdcb0e26186316bc36f407dce",
