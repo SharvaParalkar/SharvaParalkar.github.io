@@ -11,7 +11,7 @@
         "platforms": [
           {
             "name": "Espresso",
-            "architecture": "esp32s3",
+            "architecture": "Espresso",
             "version": "1.0.0",
             "category": "Contributed",
             "url": "https://github.com/SharvaParalkar/Espresso/releases/download/espresso/Espresso.zip",
